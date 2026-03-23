@@ -3,10 +3,10 @@
 I'm a final year student and aspiring software developer who enjoys learning by building real projects.
 
 ## 📊 GitHub Stats
-![GitHub Commits Graph](https://github-readme-activity-graph.vercel.app/graph?username=aleksandar-stefanovic-2203&theme=github-compact&area=true&custom_title=My%20Contribution%20Activity)
-![GitHub Commits Statistic](https://github-readme-stats.vercel.app/api?username=aleksandar-stefanovic-2203&show_icons=true&count_private=true&hide=issues,prs,contribs,stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandar-stefanovic-2203)
-![GitHub Streak](https://streak-stats.demolab.com/?user=aleksandar-stefanovic-2203)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=aleksandar-stefanovic-2203&theme=github-compact&area=true&custom_title=My%20Contribution%20Activity)<br>
+![GitHub Commit Statistic](https://github-readme-stats.vercel.app/api?username=aleksandar-stefanovic-2203&show_icons=true&count_private=true&hide=issues,prs,contribs,stars)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandar-stefanovic-2203)<br>
+![GitHub Streak](https://streak-stats.demolab.com/?user=aleksandar-stefanovic-2203)<br>
 
 ## 🛠 Skills
 - Building **embedded operating systems** from scratch (C)
