@@ -27,6 +27,10 @@ I'm a final year student and aspiring software developer who enjoys learning by 
 
 ## 📂 Featured Projects
 Here are some of my most noteable projects:
+- **RAID implementation**<br>
+  Implementation of RAID structures on the xv6 operating system for RISC-V, supporting safe and efficient concurrent access by multiple processes through locking mechanisms.<br>
+  [GitHub repository](https://github.com/aleksandar-stefanovic-2203/raid-implementation)
+
 - **Expression optimizer**<br>
   A small C# library used for efficiently storing mathematical expressions.<br>
   [GitHub repository](https://github.com/aleksandar-stefanovic-2203/expression-optimizer)
