@@ -26,17 +26,17 @@ I'm a final year student and aspiring software developer who enjoys learning by 
 
 ## 📂 Featured Projects
 Here are some of my most noteable projects:
-- **RAID implementation**<br>
-  Implementation of RAID structures on the xv6 operating system for RISC-V, supporting safe and efficient concurrent access by multiple processes through locking mechanisms.<br>
-  [GitHub repository](https://github.com/aleksandar-stefanovic-2203/raid-implementation)
+- **Exam score predictor**<br>
+  Predicts student exam scores with KNN and linear regression from study, school, and family factors.<br>
+  [GitHub repository](https://github.com/aleksandar-stefanovic-2203/exam-score-predictor)
 
-- **Expression optimizer**<br>
-  A small C# library used for efficiently storing mathematical expressions.<br>
-  [GitHub repository](https://github.com/aleksandar-stefanovic-2203/expression-optimizer)
+- **RISC-V kernel**<br>
+  An Educational RISC-V microkernel project implementing memory allocation, threading, scheduling, semaphores, and syscall interfaces in C/C++.<br>
+  [GitHub repository](https://github.com/aleksandar-stefanovic-2203/riscv-kernel)
   
-- **Command sound**<br>
-  A VS Code extension that plays a sound after a successful/unsuccessful command.<br>
-  [GitHub repository](https://github.com/aleksandar-stefanovic-2203/command-sound)
+- **Mountain cottage booking platform**<br>
+  A full-stack web application for browsing, managing, and booking mountain cottages, featuring role-based access for tourists, owners, and administrators.<br>
+  [GitHub repository](https://github.com/aleksandar-stefanovic-2203/mountain-cottage-booking-platform)
 
 
 ## 📈 My Goals
